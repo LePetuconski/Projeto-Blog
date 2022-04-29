@@ -2,8 +2,6 @@
 
 Blog | Crud feito em **Nuxt.js**.
 
-- A pasta do Projeto Nuxt e da API estão no mesmo repositório
-
 Sobre mim 👇
 
 ```json
