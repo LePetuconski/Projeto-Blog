@@ -83,20 +83,23 @@ Este projeto está sob a licença - veja o arquivo [LICENSE.md](link) para detal
 
 ## 💻 Telas do Projeto
 
-- Tela: Home
+Tela: Home
 ![Screenshot](image-home.png)
 
-- Tela: Blog
+Tela: Blog
 ![Screenshot](image-blog.png)
 
-- Tela: Dashboard
+Tela: Dashboard
 ![Screenshot](image-dashboard.png)
 
-- Tela: Read More
+Tela: Read More
+
 ![Screenshot](image-readmore.png)
 
-- Tela: Create Post | Modal
+Tela: Create Post | Modal
+
 ![Screenshot](image-createpost.png)
 
-- Tela: Edit Post | Modal
+Tela: Edit Post | Modal
+
 ![Screenshot](image-editpost.png)
