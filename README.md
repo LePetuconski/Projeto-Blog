@@ -2,7 +2,7 @@
 
 Blog | Crud feito em **Nuxt.js**.
 
-Sobre mim 👇
+Sobre mim 👇  
 
 ```json
 {
