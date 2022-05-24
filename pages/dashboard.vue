@@ -1,7 +1,7 @@
 <template>
   <div class="container mt-5">
     <!-- Botão -->
-    <Button _class="btn btn-sm-2 btn-success d-block mr-0 ml-auto mb-3" id="createModal">Criar post</Button>
+    <Button _class="btn btn-sm-2 btn-success d-block mr-0 ml-auto mb-3" id="createModal">Create post</Button>
     <hr class="mt-0" />
     <!-- Modal | Criar post -->
     <div class="modal fade" id="createModal" tabindex="-1" role="dialog" aria-labelledby="createModal"
