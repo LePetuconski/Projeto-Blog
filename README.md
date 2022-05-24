@@ -15,7 +15,7 @@ Sobre mim 👇
 
 ```
 
-**Obs:** 
+**Obs:**  
 - A intenção desse projeto não é focar no front-end, ou seja, não está responsivo.
 - Pretendo dar continuidade no desenvolvimento desse projeto, trazendo melhorias.
 

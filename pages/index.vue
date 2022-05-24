@@ -12,7 +12,7 @@
           </center>
 
           <center>
-            <small style="color: #172b4d;"><br>Contact me</small>
+            <small style="color: #172b4d;"><br>Contact me 👇</small>
           </center>
 
           <div class="btn-wrapper text-center">
